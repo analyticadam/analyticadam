@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning HTML, CSS and JavaScript and have been accepted into the National Remote Software Engineering cohort starting Sept 30, 2024 to Jan 24, 2025 with Per Scholas, a national non-profit.
 - 💞️ I’m looking to collaborate on anything in order to learn as I'm very eager and have a hunger to learn programming.
 - 📫 How to reach me: farleyadamc@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...I love technology and have a huge passion for learning constantly. I'm a huge Apple product fan.  I'm married, have 2 cats, and 1 dog.
 
 <!---
