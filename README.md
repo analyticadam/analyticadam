@@ -1,26 +1,28 @@
-# 👋 Hi, I'm Adam Farley (@analyticadam)  
-I’m a **Software Engineer** transitioning from an 8+ year career in **Oil & Gas** into **Full Stack Development**. Passionate about problem-solving, technology, and making digital experiences more accessible.  
+# 👋 Hey there, I’m Adam Farley
 
-## 🚀 What I'm Working On  
-- Building **full-stack applications** using **JavaScript, React, Node.js, Express, and MongoDB**  
-- Enhancing my skills in **Redux, Tailwind CSS, and PostgreSQL**  
-- Developing **an e-commerce platform** to integrate my experience in business and technology  
+I’m a career shifter, tech learner, and recovering HR + logistics wizard who recently completed a software engineering bootcamp. My journey’s taken a few turns—including major spine surgery—but I’m rebuilding with purpose (and a few dad jokes along the way).
 
-## 🎯 What I'm Looking For  
-- **Junior Software Engineer or Frontend Developer roles**  
-- **Collaborations** on open-source or real-world projects to sharpen my skills  
-- Opportunities to mentor others making a career transition into tech  
+These days you’ll find me:
+- 🛠 Building systems and checklists for my eBay reselling business
+- 🌐 Exploring front-end development with HTML, CSS, and JavaScript
+- 💻 Learning React, Vue, and how to keep Git from driving me crazy
+- 🎙 Planning a podcast and writing a book while sipping Dunkin’ cold caramel coffee
 
-## 📫 Let's Connect!  
-- **Email:** farleyadamc@gmail.com  
-- **LinkedIn:** [linkedin.com/in/analyticadam](https://www.linkedin.com/in/analyticadam)  
-- **GitHub Portfolio:** [analyticadam.github.io/personal-portfolio](https://analyticadam.github.io/personal-portfolio/)  
+I don’t have a wall of finished projects—yet—but I’ve got heart, hustle, and hunger to learn. If you're a mission-driven team that values real humans over rockstars, let's connect!
 
-## ⚡ Fun Fact  
-I'm an **Apple tech enthusiast**, love learning new things, and in my free time, I **resell online**. Also, I have **2 cats and 1 dog** who keep me on my toes! 🐱🐶  
+> “Your job as a creator isn’t to do it all yourself. It’s to set things in motion.” — Richie Norton
+
+📫 [farleyadamc@gmail.com](mailto:farleyadamc@gmail.com)  
+📍 Houston area | Remote-friendly  
+🔗 [LinkedIn](https://www.linkedin.com/in/adamcfarley/) • [TikTok](https://www.tiktok.com/@bigthrifting) • [eBay](https://www.ebay.com/usr/bigthrifting)
 
 ---
-<!---
-analyticadam/analyticadam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+### 🔧 Current Projects
+- `reseller-hq`: My in-progress project management dashboard for eBay/WhatNot
+- `recovery-chronicles`: A placeholder for a future blog on tech + resilience
+- `adam-portfolio`: WIP portfolio site (hosted soon, maybe!)
+
+---
+
+Thanks for stopping by. Let’s build something meaningful.
