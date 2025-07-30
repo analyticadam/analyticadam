@@ -19,6 +19,7 @@ I don’t have a wall of finished projects—yet—but I’ve got heart, hustle,
 ---
 
 ### 🔧 Current Projects
+- `reseller-dashboard`: Custom workflow tracker for my eBay reselling business, built with HTML/CSS/JS
 - `reseller-hq`: My in-progress project management dashboard for eBay/WhatNot
 - `recovery-chronicles`: A placeholder for a future blog on tech + resilience
 - `adam-portfolio`: WIP portfolio site (hosted soon, maybe!)
