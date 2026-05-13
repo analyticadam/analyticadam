@@ -14,7 +14,7 @@ Faith and perseverance drive my work, and I’m always learning new ways to buil
 > “Your job as a creator isn’t to do it all yourself. It’s to set things in motion.” — Richie Norton  
 
 📫 [farleyadamc@gmail.com](mailto:farleyadamc@gmail.com)  
-📍 Houston area | Remote-friendly  
+📍 Haslet / Fort Worth, TX | Remote-friendly  
 🔗 [LinkedIn](https://www.linkedin.com/in/adamcfarley/) • [GitHub Portfolio](https://github.com/analyticadam) • [TikTok](https://www.tiktok.com/@bigthrifting) • [eBay](https://www.ebay.com/usr/bigthrifting)
 
 ---
